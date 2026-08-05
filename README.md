@@ -224,3 +224,7 @@ Multiple responsive web applications built with modern front-end practices and c
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Siddharth+Kushwaha;BCA+Student;Python+Developer;AI+Enthusiast;Open+Source+Learner" />
+</p>
