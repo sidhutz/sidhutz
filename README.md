@@ -1,7 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=sidhutz&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-![Streak](https://streak-stats.demolab.com?user=sidhutz&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhutz&layout=compact&theme=tokyonight)
-![Stats](https://github-readme-stats.vercel.app/api?username=sidhutz&show_icons=true&theme=tokyonight)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Siddharth%20Kushwaha&fontSize=55&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Python%20%7C%20C%2B%2B%20%7C%20Cyber%20Security&descAlignY=55&descSize=18&descColor=B983FF" width="100%"/>
@@ -90,10 +86,10 @@ fun_fact: "I debug at 2 AM and call it 'peak productivity'"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sidhutz&show_icons=true&theme=tokyonight&bg_color=0f0c29&title_color=00F0FF&icon_color=B983FF&text_color=c9d1d9&border_color=302b63&border_radius=15&hide_border=false" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sidhutz&theme=tokyonight&background=0f0c29&border=302b63&ring=00F0FF&fire=B983FF&currStreakLabel=00F0FF&sideLabels=c9d1d9&dates=8a8a99&border_radius=15" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sidhutz&show_icons=true&theme=tokyonight&bg_color=0f0c29&title_color=00F0FF&icon_color=B983FF&text_color=c9d1d9&border_color=302b63&border_radius=15&hide_border=false&count_private=true&cache_seconds=1800" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=sidhutz&theme=tokyonight&background=0f0c29&border=302b63&ring=00F0FF&fire=B983FF&currStreakLabel=00F0FF&sideLabels=c9d1d9&dates=8a8a99&border_radius=15" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhutz&layout=compact&theme=tokyonight&bg_color=0f0c29&title_color=00F0FF&text_color=c9d1d9&border_color=302b63&border_radius=15&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhutz&layout=compact&theme=tokyonight&bg_color=0f0c29&title_color=00F0FF&text_color=c9d1d9&border_color=302b63&border_radius=15&hide_border=false&cache_seconds=1800" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidhutz&theme=tokyo-night&bg_color=0f0c29&color=00F0FF&line=B983FF&point=ffffff&area=true&hide_border=true" width="49%"/>
 
 </div>
@@ -209,22 +205,3 @@ Multiple responsive web applications built with modern front-end practices and c
 **Thank you for visiting! ⭐ Star my repos if you found something useful.**
 
 </div>
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Siddharth+Kushwaha;BCA+Student;Python+Developer;AI+Enthusiast;Open+Source+Learner" />
-</p>
