@@ -1,3 +1,7 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=sidhutz&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+![Streak](https://streak-stats.demolab.com?user=sidhutz&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhutz&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=sidhutz&show_icons=true&theme=tokyonight)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Siddharth%20Kushwaha&fontSize=55&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Python%20%7C%20C%2B%2B%20%7C%20Cyber%20Security&descAlignY=55&descSize=18&descColor=B983FF" width="100%"/>
